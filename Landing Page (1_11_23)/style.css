@@ -1,98 +1,102 @@
 .warna-navbar {
-    background-color: #37517E;
+  background-color: #37517e;
 }
 
 .button {
-    color: white !important;
+  color: white !important;
 }
 
 .button:hover {
-    background-color: #05a6c7;
+  background-color: #05a6c7;
 }
 
 /* KONTEN 1 */
 .konten1 {
-    background-color: #37517E;
-    padding-top: 100px;
+  background-color: #37517e;
+  padding-top: 100px;
 }
 
 .h2-konten1 {
-    color: white;
+  color: white;
 }
 
 .p-konten1 {
-    color: #ffffff8c;
+  color: #ffffff8c;
 }
 /* KONTEN 1 END */
 
 /* KONTEN 2 */
 .konten2 {
-    padding-top: 80px;
-    padding-bottom: 80px;
-    color: #37517E;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #37517e;
 }
 /* KONTEN 2 END */
 
 /* KONTEN 3 */
 .konten3 {
-    background-color: #F3F5FA;
-    padding-top: 100px;
-    padding-bottom: 50px;
-    color: #37517E;
+  background-color: #f3f5fa;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  color: #37517e;
 }
 /* KONTEN 3 END */
 
 .tentang {
-    padding-top: 80px;
-    padding-bottom: 80px;
-    color: #37517E;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #37517e;
 }
 
 .harga {
-    background-color: #F3F5FA;
-    padding-top: 80px;
-    padding-bottom: 80px;
-    color: #37517E;
+  background-color: #f3f5fa;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #37517e;
 }
 
 .card {
-    color: #37517E;
+  color: #37517e;
 }
 
 footer {
-    background-color: #37517E;
-    margin-top: 25px;
-    padding: 40px;
-    color: white;
+  background-color: #37517e;
+  margin-top: 25px;
+  padding: 40px;
+  color: white;
 }
 
 .footer-link a {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 .faq {
-    color: #37517E;
-    padding-top: 80px;
-    padding-bottom: 80px;
+  color: #37517e;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .lokasi {
-    color: #37517E;
-    background-color: #F3F5FA ;
-    padding-top: 80px;
-    padding-bottom: 80px;
+  color: #37517e;
+  background-color: #f3f5fa;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .kontak {
-    color: #37517E;
-    background-color: #F3F5FA;
-    padding-top: 80px;
-    padding-bottom: 80px;
+  color: #37517e;
+  background-color: #f3f5fa;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .imagemaps {
-    color: #37517E;
-    padding-top: 80px;
-    padding-bottom: 80px;
+  color: #37517e;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.navbar-tetap {
+  z-index: 999;
 }
