@@ -16,6 +16,10 @@
   padding-top: 100px;
 }
 
+.konten1-c1 {
+  padding-left: 80px;
+}
+
 .h2-konten1 {
   color: white;
 }
@@ -85,13 +89,6 @@ footer {
 }
 
 .kontak {
-  color: #37517e;
-  background-color: #f3f5fa;
-  padding-top: 80px;
-  padding-bottom: 80px;
-}
-
-.imagemaps {
   color: #37517e;
   padding-top: 80px;
   padding-bottom: 80px;
